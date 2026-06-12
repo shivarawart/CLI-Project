@@ -2,7 +2,7 @@
 
 > An AI-powered personal operating system that understands, analyzes, and automates your digital workflow across CLI, Telegram, WhatsApp, and desktop environments.
 
-![OpenClaw Banner](./assets/banner.png)
+![OpenClaw Banner](https://tse4.mm.bing.net/th/id/OIP.RYJd6RzsI5EumL31zldRdgHaEo?rs=1&pid=ImgDetMain&o=7&rm=3)
 
 ## Overview
 
