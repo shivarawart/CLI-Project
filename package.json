@@ -1,0 +1,34 @@
+{
+  "name": "sukna",
+  "version": "1.0.0",
+  "description": "Sukna AI CLI Assistant",
+  "type": "module",
+  "private": true,
+  "bin": {
+    "sukna": "./index.ts",
+    "arise": "./ai/a.ts"
+  },
+  "engines": {
+    "bun": ">=1.2.0"
+  },
+  "dependencies": {
+    "@clack/prompts": "^1.5.0",
+    "@mendable/firecrawl-js": "^4.25.3",
+    "@openrouter/ai-sdk-provider": "^2.9.0",
+    "@types/marked-terminal": "^6.1.1",
+    "ai": "^6.0.194",
+    "chalk": "^5.6.2",
+    "commander": "^15.0.0",
+    "diff": "^9.0.0",
+    "dotenv": "^17.4.2",
+    "figlet": "^1.11.0",
+    "marked": "^18.0.4",
+    "marked-terminal": "^7.3.0",
+    "telegraf": "^4.16.3"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/node": "^25.9.1",
+    "typescript": "^5.9.2"
+  }
+}
